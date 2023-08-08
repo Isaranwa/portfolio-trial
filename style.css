@@ -12,10 +12,11 @@ h2,
 h3 {
   text-align: center;
   margin: 0;
+  font-size: 48px;
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 48px;
 }
 
 h2 {
